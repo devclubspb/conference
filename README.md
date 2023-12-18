@@ -13,28 +13,28 @@
 
 #### 1 Открываем темы
 
-![slides-step-1.png](images%2Fslides-step-1.png)
+![slides-step-1.png](images/slides-step-1.png)
 
 #### 2 Импортируем тему
 
-![slides-step-2.png](images%2Fslides-step-2.png)
+![slides-step-2.png](images/slides-step-2.png)
 
 #### 3 Вставляем ссылку на шаблон
 
-![slides-step-3.png](images%2Fslides-step-3.png)
+![slides-step-3.png](images/slides-step-3.png)
 
 #### 4 Выбираем найденный шаблон
 
-![slides-step-4.png](images%2Fslides-step-4.png)
+![slides-step-4.png](images/slides-step-4.png)
 
 #### 5 Вставляем выбранный шаблон
 
-![slides-step-5.png](images%2Fslides-step-5.png)
+![slides-step-5.png](images/slides-step-5.png)
 
 #### 6 Импортируем шаблон
 
-![slides-step-6.png](images%2Fslides-step-6.png)
+![slides-step-6.png](images/slides-step-6.png)
 
 #### 7 Наблюдаем результат применения шаблона
 
-![slides-step-7.png](images%2Fslides-step-7.png)
+![slides-step-7.png](images/slides-step-7.png)
